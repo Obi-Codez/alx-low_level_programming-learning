@@ -10,10 +10,11 @@
  */
 
 int main(void)
+
 {
 	char ca = 'a';
 	char cA = 'A';
-
+	
 	while (cA <= 'Z')
 	{
 		while (ca <= 'z')
